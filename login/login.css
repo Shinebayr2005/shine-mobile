@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hylos-login{
+    
+    height: 100%;
+    width: 70%;
+}
+.xborg-login{
+    height: 100%;
+    width: 60%;
+}
+.layla-forgot{
+    height: 100%;
+    width: 50%;
+}
+.forgot{
+    font-size: 30px;
+    color:#1877f2 ;
+    text-shadow: white 0px 1px 0px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.forgot-background{
+    background-image: linear-gradient(260deg,rgb(0, 33, 83),rgb(0, 96, 185) );
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+.login-background{
+    background-image: linear-gradient(90deg,rgb(0, 37, 92),rgb(0, 96, 185) );
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+}
+.sign-background{
+    background-image: linear-gradient(300deg,rgb(0, 77, 192),rgb(0, 45, 87) );
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign{
+    height: 90vh;
+    width: 30vw;
+    background-color: rgba(0, 0, 0, 0.397);
+    box-shadow: rgba(0, 0, 0, 0.541) 10px 10px 20px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+}
+.login{
+    height: 80vh;
+    width: 30vw;
+    background-color: rgba(0, 0, 0, 0.397);
+    box-shadow: rgba(0, 0, 0, 0.541) 10px 10px 20px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+}
+.img{
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+.name{
+    margin-top: 10px;
+    padding: 15px 10px ;
+    width: 60%;
+    box-shadow: silver 2px 2px 2px 0px;
+    border: solid 0.2px silver;
+}
+.email{
+    margin-top: 10px;
+    padding: 15px 10px ;
+    width: 60%;
+    box-shadow: silver 2px 2px 2px 0px;
+    border: solid 0.2px silver;
+}
+.pass{
+    margin-top: 10px;
+    padding: 15px 10px ;
+    width: 60%;
+    box-shadow: silver 2px 2px 2px 0px;
+    border: solid 0.2px silver;
+}
+.emaile{
+    margin-top: 10px;
+    padding: 15px 10px ;
+    width: 60%;
+    box-shadow: silver 2px 2px 2px 0px;
+    border: solid 0.2px silver;
+}
+.passe{
+    margin-top: 10px;
+    padding: 15px 10px ;
+    width: 60%;
+    box-shadow: silver 2px 2px 2px 0px;
+    border: solid 0.2px silver;
+}
+.login-btn{
+    margin-top: 20px;
+    width: 65%;
+    height: 50px;
+    background-color: #006dfc;
+    font-size: 30px;
+    color: white;
+    border-radius: 6px;
+    box-shadow: silver 3px 3px 2px 0px;
+    border: none;
+}
+.sign-btn{
+    margin-top: 20px;
+    width: 65%;
+    height: 50px;
+    background-color: #006dfc;
+    font-size: 30px;
+    color: white;
+    border-radius: 6px;
+    box-shadow: silver 3px 3px 2px 0px;
+    border: none;
+}
+.reset-btn{
+    margin-top: 20px;
+    width: 65%;
+    height: 50px;
+    background-color: #006eff;
+    font-size: 20px;
+    color: white;
+    border-radius: 6px;
+    box-shadow: silver 3px 3px 2px 0px;
+    border: none;
+}
+
+.or{
+    margin-top: 20px;
+    color: white;
+}
+.facebook-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #1877f2;
+    font-size: 30px;
+    color: white;
+    border-radius: 6px;
+    box-shadow: silver 3px 3px 2px 0px;
+    border: none;
+}
+.facebook-link{
+    margin-top: 10px;
+    width: 65%;
+    height: 50px; 
+    border: none;
+}
+.a-div{
+    margin-top: 20px;
+    color: #1877f2;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.f-div{
+    margin-top: 30px;
+    color: #1877f2;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+.s-div{
+    margin-top: 15px;
+    color: #1877f2;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+.forgot-a{
+    color: #1877f2;
+    text-decoration-line: none;
+}
+.forgot-s{
+    color: #1877f2;
+    text-decoration-line: none;
+}
+.forgot-a:hover{
+    color: #1877f2;
+    text-decoration-line: underline;
+}
+.forgot-s:hover{
+    text-decoration-line: underline;
+}
+.forgot-sign-s{
+    color: #1877f2;
+    text-decoration-line: none; 
+    margin-top: 0px;
+}
+.forgot-sign-s:hover{
+    text-decoration-line: underline;
+}

@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-lane{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.247);
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+}
+.lane{
+    width: 80vw;
+    height: 80vh;
+    background-color: rgba(0, 0, 0, 0.63);
+}
+.exp-lane{
+    height: 18%;
+    width: 100%;
+    display: flex;
+    margin-bottom: 1%; 
+    border-bottom: 0.5px cyan solid;
+}
+.exp-info{
+    padding-top: 10px;
+    font-size: 12px;
+    color: cyan;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mid-lane{
+    height: 18%;
+    width: 100%;
+    display: flex;
+    margin-bottom: 1%;
+    border-bottom: 0.5px cyan solid;
+}
+.mid-info{
+    font-size: 15px;
+    color: cyan;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jungler-lane{
+    height: 18%;
+    width: 100%;
+    display: flex;
+    margin-bottom: 1%;
+    border-bottom: 0.5px cyan solid;
+}
+.jungler-info{
+    font-size: 15px;
+    color: cyan;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.gold-lane{
+    height: 18%;
+    width: 100%;
+    display: flex;
+    margin-bottom: 1%;
+    border-bottom: 0.5px cyan solid;
+}
+.gold-info{
+    font-size: 15px;
+    color: cyan;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.roam-lane{
+    height: 18%;
+    width: 100%;
+    display: flex;
+    margin-bottom: 1%;
+    border-bottom: 0.5px cyan solid;
+}
+.roam-info{
+    font-size: auto;
+    color: cyan;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.x-btn{
+    color: gold;
+    background-color: goldenrod;
+    font-size: 25px;
+    height: 30px;
+    width: 20px;
+    background: none;
+    border: none;
+    text-align: center;
+    margin-right: 5px;
+}

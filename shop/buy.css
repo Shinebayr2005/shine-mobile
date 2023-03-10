@@ -1,0 +1,394 @@
+.buy-main{
+    top: 0;
+    left: 0;
+}
+.dimonds{
+    color: black;
+}
+.xborg-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+    
+}
+.xborg{
+    font-size: 7px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.xborg-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.xborg-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.buy-img{
+    height:  100%;
+}
+.buy-name{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.buy-btn-x{
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+
+.buy-x{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: dashed;
+}
+.buy-x:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.layla-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.layla{
+    font-size: 7px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.layla-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.layla-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.franco-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.franco{
+    font-size: 6.9px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.franco-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.franco-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.karina-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.karina{
+    font-size: 6.9px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.karina-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.karina-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.angela-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.angela{
+    font-size: 9px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.angela-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.angela-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.thamuz-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.thamuz{
+    font-size: 14px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.thamuz-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.thamuz-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.moskov-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.moskov{
+    font-size: 7.7px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.moskov-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.moskov-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.khufra-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.khufra{
+    font-size: 10.5px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.khufra-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.khufra-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.hanzo-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.hanzo{
+    font-size: 9.5px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.hanzo-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+    
+}.hanzo-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
+.vexana-maind{
+    top: 15vh;
+    left: 15vw;
+    width: 70vw; 
+    height: 70vh;
+    background-image: linear-gradient(rgb(88, 68, 15),rgb(88, 67, 11),rgb(90, 68, 13),goldenrod);
+    box-shadow: 0px 0px 20px 0px white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+.vexana{
+    font-size: 6.17px;
+    color: white;
+    text-shadow: darkblue 2px 2px 2px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.vexana-buys{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(114, 87, 18);
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    border-bottom: black solid 3px;
+    border-left:black solid 4px ;
+    border-top: hidden;
+    border-right: hidden ;
+}.vexana-buys:hover{
+    color: black;
+    background-image: linear-gradient(90deg,rgba(218, 165, 32, 0.507),rgba(218, 165, 32, 0.507));
+}
