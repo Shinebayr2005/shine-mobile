@@ -22,7 +22,7 @@ function sign(){
     }
     else{
         
-        location.href="./login.html"
+        location.href="./index.html"
     }
 }
 signin.addEventListener("click",sign)

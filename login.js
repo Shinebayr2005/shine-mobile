@@ -11,7 +11,7 @@ function login(){
 
     if(enterEmail == getEmail){
         if(enterPass == getPass){
-            location.href="../index.html"
+            location.href="./home/home.html"
         }
         else{
             alert("Wrong Email or Password?")
